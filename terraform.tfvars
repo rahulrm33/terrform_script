@@ -1,0 +1,6 @@
+credentials       = "Add up your auth key file"
+name              = "demo"
+gcp_project       = "project_name"
+region            = "us-central1"
+zone              = "us-central1-a"
+subnet_cidr_range = "10.0.0.0/24"
